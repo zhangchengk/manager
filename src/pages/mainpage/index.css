@@ -1,0 +1,16 @@
+.logo {
+    height: 65px;
+    background: rgba(255,255,255,.2);
+    /* margin: 16px; */
+    color: rgb(247, 251, 252);
+    text-align: center;
+    line-height: 65px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    overflow : hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
