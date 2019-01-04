@@ -1,7 +1,7 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 import { Switch,  Route, Redirect,HashRouter} from 'react-router-dom';
-import '../../../node_modules/_antd@3.7.0@antd/dist/antd.css';
+import '../../../node_modules/_antd@3.11.6@antd/dist/antd.css';
 import MiddleWare from '../../contains/middleware';
 import { Layout,Icon,Menu} from 'antd';
 import './index.css';
